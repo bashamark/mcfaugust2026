@@ -116,7 +116,7 @@
       "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
     },
     "home_banner": {
-      "enabled": true,
+      "enabled": false,
       "hidden": true,
       "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
     }
