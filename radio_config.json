@@ -56,7 +56,7 @@
     "title": "Verse of the Day"
   },
   "banners": {
-    "enabled": true,
+    "enabled": false,
     "tag": "home",
     "autoAdvanceSeconds": 5,
     "items": [
