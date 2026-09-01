@@ -49,6 +49,12 @@
     "aspect_ratio": "16:9",
     "chat_enabled": true
   },
+  "video_stream": {
+    "enabled": true,
+    "label": "Eternal TV",
+    "url": "https://live-tv.mfc-streaming-service.online/hls/orion_west.m3u8",
+    "aspect_ratio": "16:9"
+  },
   "verse_of_the_day": {
     "enabled": true,
     "api_url": "https://beta.ourmanna.com/api/v1/get?format=json&order=daily",
