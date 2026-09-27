@@ -38,7 +38,7 @@
     "label": "Give"
   },
   "youtube": {
-    "enabled": true,
+    "enabled": false,
     "channel_id": "UCgrkxPaFvtVDBdi0_3fKExg",
     "live_url": "https://www.youtube.com/channel/UCgrkxPaFvtVDBdi0_3fKExg/live",
     "streams_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
@@ -47,7 +47,7 @@
     "title": "",
     "fullscreen": true,
     "aspect_ratio": "16:9",
-    "chat_enabled": true
+    "chat_enabled": false
   },
   "video_stream": {
     "enabled": false,
@@ -158,9 +158,9 @@
     },
     {
       "id": "mcf-radio-web",
-      "enabled": true,
+      "enabled": false,
       "show_in_drawer": false,
-      "show_in_radio": true,
+      "show_in_radio": false,
       "url": "https://mcfradio256.webusite.com/",
       "label": "MCF Radio Online"
     },
