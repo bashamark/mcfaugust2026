@@ -14,7 +14,7 @@
     },
     {
       "id": "mcf-data-saver",
-      "enabled": false,
+      "enabled": true,
       "label": "MCF Data Saver",
       "url": "https://gospelradio.webusite.com/listen/mcf_3/mcf"
     },
