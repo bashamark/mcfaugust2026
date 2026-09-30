@@ -8,13 +8,13 @@
   "streams": [
     {
       "id": "mcf",
-      "enabled": true,
+      "enabled": false,
       "label": "MCF Radio 98.7 FM",
       "url": "http://51.81.87.44/listen/mcf_radio/radio.mp3"
     },
     {
       "id": "mcf-data-saver",
-      "enabled": true,
+      "enabled": false,
       "label": "MCF Data Saver",
       "url": "https://gospelradio.webusite.com/listen/mcf_3/mcf"
     },
