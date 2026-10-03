@@ -25,12 +25,12 @@
       "url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3"
     }
   ],
-  "defaultTitle": "Download Mcf media app or mcfradio2018.caster.fm",
+  "defaultTitle": "Please Download Mcf media app from playstore",
   "defaultSubtitle": "",
   "chat": {
     "enabled": true,
     "url": "https://mcfchat-469b5.web.app/",
-    "label": "MCF Radio Chat"
+    "label": "Download MCF Media App Please"
   },
   "give": {
     "enabled": false,
