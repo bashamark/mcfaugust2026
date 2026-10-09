@@ -25,12 +25,12 @@
       "url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3"
     }
   ],
-  "defaultTitle": "Please Download Mcf media app from playstore",
+  "defaultTitle": "Live Stream",
   "defaultSubtitle": "",
   "chat": {
     "enabled": true,
     "url": "https://mcfchat-469b5.web.app/",
-    "label": "Download MCF Media App Please"
+    "label": "MCF Radio Chat"
   },
   "give": {
     "enabled": false,
@@ -38,7 +38,7 @@
     "label": "Give"
   },
   "youtube": {
-    "enabled": false,
+    "enabled": true,
     "channel_id": "UCgrkxPaFvtVDBdi0_3fKExg",
     "live_url": "https://www.youtube.com/channel/UCgrkxPaFvtVDBdi0_3fKExg/live",
     "streams_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
@@ -50,7 +50,7 @@
     "chat_enabled": false
   },
   "video_stream": {
-    "enabled": false,
+    "enabled": true,
     "label": "Eternal TV",
     "url": "https://live-tv.mfc-streaming-service.online/hls/orion_west.m3u8",
     "aspect_ratio": "16:9"
